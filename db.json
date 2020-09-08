@@ -1,7 +1,14 @@
 {
-  "posts":[{
+  "posts":[
+    {
   "enable":0,
-  "callback":"1111",
-  "sort":"1112"
-}]
+  "funcNo":"1111",
+  "status":"1"
+  },
+    {
+  "enable":0,
+  "funcNo":"1221",
+  "status":"1"
+  }
+  ]
 }
