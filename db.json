@@ -1,9 +1,5 @@
 {
-  "posts": [
-{
   "enable":0,
   "callback":"1111",
   "sort":"1112"
-}
-  ]
 }
